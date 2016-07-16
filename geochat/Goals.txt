@@ -1,0 +1,24 @@
+Communicate via text via geo location anonymously.
+	by default, invisible with visibility slider
+	local chat
+	users nearby
+	Search through multiple users for specifics
+	Chat history
+	Geo tagged chat rooms (user generated, limited to distance)
+	1 to 1 chatting
+	
+	Choose to display your username in chat rooms (settings)
+		In settings and in pop up box to hide username or not and 'dont ask me again'
+	
+	google maps JS API
+		pins for chat rooms
+			Chat rooms cannot be within a certain default distance.
+		General location, not precise
+			
+	Database on firebase server
+		contains user name, password and location
+		
+	Only take location. Nothing else
+	
+	
+	
